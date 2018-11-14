@@ -1,0 +1,16 @@
+i.Nombre del equipo: RocketTec
+ii.Nombres de los integrantes del equipo:
+
+	Alfredo Palacios Olagaray - A01027133
+	Lorenzo Jácome Ceniceros - A01026759
+	Diego Velázquez Álvarez - A01027322
+	José Javier Vega Mejía - A01026996
+	Diego Eduardo García Díaz - A01747264
+
+
+iii.Descripción de las actividades abordada en sus presentaciones:
+
+	- ¿Cómo el código de ética fue violado por Facebook en los últimos escándalos de seguridad?
+
+	- Reglamento del Tecnológico de Monterrey aplicado a varios casos.
+
